@@ -9,6 +9,6 @@ int main()
 		cin >> Name;
 		cout <<"Enter Year of birth :";
 		cin >> Birth;
-		cout << "Your Age =" <<2566 - Birth<<"year old."<<endl;
+		cout << "Your Age =" <<2566 - Birth<< "year old." <<endl;
 		return(0);
 }
